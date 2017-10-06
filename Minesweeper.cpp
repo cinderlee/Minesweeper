@@ -205,6 +205,7 @@ private:
     vector <vector <Cell>> board;
 };
 
+//Professor's Test Code below
 int main() {
     Minesweeper sweeper;
     // Continue until the only invisible cells are bombs
